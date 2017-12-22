@@ -1,5 +1,5 @@
 N = 50; % numarul de coeficienti
-D = 19; % durata
+D = 15; % durata
 P = 40; % perioada
 F=1/P; % frecventa 
 w0=2*pi/P; % pulsatia
